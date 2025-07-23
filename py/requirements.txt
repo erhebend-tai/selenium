@@ -59,3 +59,8 @@ virtualenv==20.31.2
 websocket-client==1.8.0
 wsproto==1.2.0
 zipp==3.23.0
+
+# WebBot optional dependencies
+playwright==1.50.0
+pytesseract==0.3.15
+Pillow==11.1.0
